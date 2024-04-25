@@ -1,9 +1,9 @@
 # api_user_feedback
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/) [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://djoser.readthedocs.io/en/latest/introduction.html)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=for-the-badge&logo=django&logoColor=white&color=00e5cc&labelColor=00e5cc)](https://www.django-rest-framework.org/) [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://djoser.readthedocs.io/en/latest/introduction.html)
 ___
 ## Описание  <a id="Content"></a> 
-Сервис собирает отзывы пользователей на произведения: "Фильмы", "Музыка", "Книги". Стек: Python, Django, Django REST Framework, JWT
+Сервис собирает отзывы пользователей на произведения: "Фильмы", "Музыка", "Книги".
 ___
 ##  Установка
 ### Как запустить проект:
